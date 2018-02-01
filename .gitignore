@@ -1,0 +1,5 @@
+# personal config files
+api/api_config.php
+
+# IDE files
+.idea
